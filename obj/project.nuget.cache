@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Nkvb0Aww55+6OblZ9LVYfWaJK9lX9RPHc4NBwInLiOcDGDLmU327BmR88+a772RovEez0k7vNLquYeFHwgdr1Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\soums\\OneDrive\\Desktop\\Phase4\\Project2\\SchoolLibrary\\SchoolLibrary\\SchoolLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\soums\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
+    "C:\\Users\\soums\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\soums\\.nuget\\packages\\moq\\4.20.70\\moq.4.20.70.nupkg.sha512",
+    "C:\\Users\\soums\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\soums\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
+    "C:\\Users\\soums\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
